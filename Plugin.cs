@@ -2,7 +2,6 @@
 using BepInEx.Logging;
 using BepInEx.Unity.IL2CPP;
 using HarmonyLib;
-using System;
 
 namespace EasyTame
 {
@@ -17,7 +16,6 @@ namespace EasyTame
         {
             // Plugin startup logic
             Log = base.Log;
-            Log.LogInfo($"Patching...");
             harmony.PatchAll();
             Log.LogInfo($"Plugin {MyPluginInfo.PLUGIN_NAME} is loaded!");
         }
