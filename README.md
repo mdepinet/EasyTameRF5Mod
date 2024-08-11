@@ -2,6 +2,8 @@
 
 My first Rune Factory 5 mod. This ensures that taming always succeeds, provided you have room for the monster. Because I want 8 buffamoo damn it.
 
+![Demo Screenshot](https://github.com/mdepinet/EasyTameRF5Mod/blob/master/Screenshot.png?raw=true)
+
 ## Credits
 
 I wanted to replay RF5 on my TV with my Stadia controller using my Steam Deck. This led me to the popular [RF5Fix mod](https://github.com/Lyall/RF5Fix).
